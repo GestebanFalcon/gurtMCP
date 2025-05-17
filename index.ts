@@ -3,7 +3,7 @@ import { StdioServerTransport } from "@modelcontextprotocol/sdk/server/stdio.js"
 import { z } from "zod";
 
 const server = new McpServer({
-    name: "Gangstalicious Fan Club (GFC)",
+    name: "Gurt Fan Club (GFC)",
     version: "4.2.0",
     capabilities: {
         tools: {}
